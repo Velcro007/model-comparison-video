@@ -1,0 +1,4 @@
+interface:
+  display_name: "模型评测对比视频"
+  short_description: "从同一 prompt 生成多模型场景，录制动画并合成带真实耗时费用的对比视频"
+  default_prompt: "使用 $model-comparison-video，根据我提供的 prompt 制作多模型对比视频，可选指定参评模型。"
